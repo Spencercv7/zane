@@ -1,0 +1,35 @@
+#clicked {
+    border: 2px solid orangered;
+}
+
+#nav a { 
+  color: inherit;
+  justify-content: center;
+  font-size:30px;
+  text-decoration: none;
+}
+#nav a:hover {
+  color: rgb(193, 162, 223);
+}
+.site-name:hover
+{
+  filter: opacity(0.6) drop-shadow(0 0 0 rgb(87, 30, 143)) saturate(1)
+}
+
+
+#nav ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+#nav {
+  background-color: rgba(0, 0, 0); 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2rem;
+  padding: 2rem 1rem;
+}

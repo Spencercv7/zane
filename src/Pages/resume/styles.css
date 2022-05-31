@@ -1,0 +1,7 @@
+/* ID: When the element is completely unique. */
+/* Class: When they are re-used */
+
+#content_border-resume {
+    display: grid;
+    place-items: center;
+} 

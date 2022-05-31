@@ -1,0 +1,9 @@
+#ContentWrapper {
+    height: 100%;
+    width: 100%;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    border: 4px solid rgb(193, 162, 223) ;
+    border-radius: 13px;
+}
